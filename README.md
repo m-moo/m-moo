@@ -1,4 +1,5 @@
-### Hi there 👋
+
+![m-moo's GitHub stats](https://github-readme-stats.vercel.app/api?username=m-moo&theme=panda&show_icons=true)
 
 <!--
 **m-moo/m-moo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
