@@ -3,6 +3,7 @@
 <h4 align="center"> ✨ CONTACT ✨ </h4>
 <div align="center">
   <img src="https://img.shields.io/badge/knr524@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:knr524@gmail.com" />
+  <a href="https://k-nr.notion.site/Kim-Nuri-0be81b972b954d7c9a08a0d4aed5bd29"><img src="https://img.shields.io/badge/portfolio-000000?style=flat-square&logo=Notion&logoColor=white&link=mailto:knr524@gmail.com" /></a>
   <a href="http://velog.io/@mmoo"><img src="https://img.shields.io/badge/Tech Blog-20C997?style=flat-square&logo=Velog&logoColor=white" /></a>
 </div>
 
@@ -15,6 +16,7 @@
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white" />
 </div>
 
+<br/>
 <br/>
 
 <div align="center">
