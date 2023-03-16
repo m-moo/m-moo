@@ -1,7 +1,15 @@
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=Backend%20developer&fontSize=70&fontAlignY=40" />
 
-![m-moo's GitHub stats](https://github-readme-stats.vercel.app/api?username=m-moo&theme=panda&show_icons=true)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=m-moo&theme=panda&show_icons=true" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-moo&theme=panda&layout=compact" />
+</div>
 
 <!--
+#f4bbbb
 **m-moo/m-moo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
