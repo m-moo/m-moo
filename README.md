@@ -2,16 +2,7 @@
 
 <div align="center">
 <!-- <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fm-moo%2F&count_bg=%23181717&title_bg=%23181717&icon=github.svg&icon_color=%23E7E7E7&title=visitor&edge_flat=true"/> -->
-<br/>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-moo&layout=compact&theme=panda" />
-</div>
-
-<div align="center">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=m-moo&theme=panda&show_icons=true&" />
-  
-<p align="left"> 
-
   #### 👋 Contact
   <div align="center">
     <a href="http://velog.io/@mmoo"><img src="https://img.shields.io/badge/Tech Blog-20C997?style=flat-square&logo=Velog&logoColor=white" /></a>
@@ -27,7 +18,15 @@
     <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white" />
     <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white" />
   </div>
-</p>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-moo&layout=compact&theme=panda" />
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=m-moo&hide_title=true&hide=contribs&theme=panda&show_icons=true" />
+  
 </div>
 
 
