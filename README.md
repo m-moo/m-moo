@@ -23,9 +23,9 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-moo&layout=compact&theme=panda" />
+  <img src="https://github-readme-stats-nu-green-37.vercel.app/api/top-langs/?username=m-moo&layout=compact&theme=panda" />
   
-  <img src="https://github-readme-stats.vercel.app/api?username=m-moo&hide_title=true&hide=contribs&theme=panda&show_icons=true" />
+  <img src="https://github-readme-stats-nu-green-37.vercel.app/api?username=m-moo&hide_title=true&hide=contribs&theme=panda&show_icons=true" />
   
 </div>
 
