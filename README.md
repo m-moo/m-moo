@@ -23,7 +23,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats-nu-green-37.vercel.app/api/top-langs/?username=m-moo&layout=compact&theme=panda" />
+  <img src="https://github-readme-stats-nu-green-37.vercel.app/api/top-langs/?username=m-moo&layout=compact&theme=panda&exclude_repo=github-readme-stats,github-stats-box,productive-box" />
   
   <img src="https://github-readme-stats-nu-green-37.vercel.app/api?username=m-moo&hide_title=true&hide=contribs&theme=panda&show_icons=true" />
   
