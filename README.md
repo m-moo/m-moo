@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img width="350em" align="right" src="https://github-readme-stats-nu-green-37.vercel.app/api/top-langs/?username=m-moo&layout=compact&theme=panda&exclude_repo=github-readme-stats,github-stats-box,productive-box" />
+  <img width="330em" align="right" src="https://github-readme-stats-nu-green-37.vercel.app/api/top-langs/?username=m-moo&layout=compact&theme=panda&exclude_repo=github-readme-stats,github-stats-box,productive-box" />
   
   #### 👋 Contact
   <a href="http://velog.io/@mmoo"><img src="https://img.shields.io/badge/Tech Blog-20C997?style=flat-square&logo=Velog&logoColor=white" /></a>
