@@ -1,9 +1,6 @@
-<!-- 
 <div align="center">
   
-  <div height="200">
-    <img align="right" src="https://github-readme-stats-nu-green-37.vercel.app/api/top-langs/?username=m-moo&layout=compact&theme=panda&exclude_repo=github-readme-stats,github-stats-box,productive-box" />
-  </div>
+  <img width="350em" align="right" src="https://github-readme-stats-nu-green-37.vercel.app/api/top-langs/?username=m-moo&layout=compact&theme=panda&exclude_repo=github-readme-stats,github-stats-box,productive-box" />
   
   #### 👋 Contact
   <a href="http://velog.io/@mmoo"><img src="https://img.shields.io/badge/Tech Blog-20C997?style=flat-square&logo=Velog&logoColor=white" /></a>
@@ -17,10 +14,10 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white" />
   
-</div> -->
+</div>
 
 
-<div align="center">
+<!-- <div align="center">
  
   #### 👋 Contact
   <div align="center">
@@ -28,7 +25,7 @@
     <img src="https://img.shields.io/badge/knr524@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:knr524@gmail.com" />
     <a href="https://k-nr.notion.site/9abc496ba2de41d492045fd30c57880f?pvs=4"><img src="https://img.shields.io/badge/Resume-000000?style=flat-square&logo=Notion&logoColor=white&link=mailto:knr524@gmail.com" /></a>
   </div>
-  
+ 
   #### 🔨Tech Stack
   <div align="center">
     <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white" />
@@ -42,11 +39,7 @@
 <div align="center">
   <img src="https://github-readme-stats-nu-green-37.vercel.app/api/top-langs/?username=m-moo&layout=compact&theme=panda&exclude_repo=github-readme-stats,github-stats-box,productive-box" />
 </div>
-
-
-
-
-
+ -->
 
 
 
